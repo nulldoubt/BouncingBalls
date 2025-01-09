@@ -38,6 +38,9 @@ and execute the gradle task `run` from the `application` subproject.
 * Download the latest JAR file and either double click it (OS-dependent), or run 
 the `java -jar /path/to/jar` 
 
+
+### For now, the only way to remove all the balls is to *terminate* the process. 
+
 ---
 
 ## Enjoying the project?
